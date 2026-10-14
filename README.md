@@ -17,3 +17,7 @@ Modular Logic: Clock-driven sequential circuit with clear state visualization vi
 
 [Proiect sincretic prezentare.docx](https://github.com/user-attachments/files/33430636/Proiect.sincretic.prezentare.docx)
 [Prezentare PCEF 2.pptx](https://github.com/user-attachments/files/33026615/Prezentare.PCEF.2.pptx)
+
+<img width="1038" height="634" alt="Pads Logic" src="https://github.com/user-attachments/assets/ec50e457-bb85-4b4d-b444-618e870f3ea6" />
+
+<img width="582" height="435" alt="Schema" src="https://github.com/user-attachments/assets/4f9bfdd1-2f31-4dc9-9963-e23999a41385" />
